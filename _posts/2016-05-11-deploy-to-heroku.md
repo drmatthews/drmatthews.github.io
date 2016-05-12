@@ -4,7 +4,7 @@ title: Deploying Django app to Heroku
 description: "A post about how I deployed a Django app to Heroku"
 modified: 2016-05-11
 tags: [Django, Heroku, deployment]
-categories: [Django]
+categories: [Heroku]
 share: false
 ---
 
