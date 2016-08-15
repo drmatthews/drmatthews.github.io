@@ -12,9 +12,9 @@ I struggled with this for a while, and I think the main trouble I had was with s
 
 1. Get the [Linux drivers](http://www.canon-europe.com/support/consumer_products/products/printers/laser/i-sensys_lbp7010c.aspx?type=drivers&language=EN&os=Linux%20(64-bit)) from Canon. (These are for LBP7010C.)
 2. Extract the archive:
-		{% highlight shell%}
-		$ tar xvzf Linux_CAPT_PrinterDriver_V270_uk_EN.tar.gz
-		{% endhighlight %}
+	```shell
+	$ tar xvzf Linux_CAPT_PrinterDriver_V270_uk_EN.tar.gz
+	```
 3. The guide mentioned above suggests that Glade is a dependency:
 		{% highlight shell%}
 		$ sudo apt-get install libglade2-0
